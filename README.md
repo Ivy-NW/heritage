@@ -2,10 +2,7 @@
 
 # Heritage
 
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-
+![Static Badge](https://img.shields.io/badge/Heritage-blue)
 
 
 Heritage restores endangered indigenous languages and enhances cultural experiences 
