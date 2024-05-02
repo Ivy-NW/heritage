@@ -53,4 +53,4 @@ The whole code for the anchor tag is:
 cd heritage
 start index.html
 ```
-![Heritage Logo](/images/heritage.png)
+![Heritage Logo](/images/image.png)
