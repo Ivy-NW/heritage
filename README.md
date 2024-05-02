@@ -1,4 +1,4 @@
-![Heritage Logo](/banner.png)
+![Heritage Logo](/images/banner.png)
 
 # Heritage
 
@@ -44,7 +44,7 @@ Also, in kalenjin.html, kikuyu.html, somali.html and luo.html: change the anchor
 
 The whole code for the anchor tag is: 
 
-![Anchor tag code](/code.png)
+![Anchor tag code](/images/code.png)
 
 ## Running Heritage
 
@@ -52,4 +52,4 @@ The whole code for the anchor tag is:
 cd heritage
 start index.html
 ```
-![Heritage Logo](/heritage.png)
+![Heritage Logo](/images/heritage.png)
