@@ -17,8 +17,9 @@ through the use of AI.
 Heritage requires:
 
  1. [Node.js](https://nodejs.org/) v18+ to run.<br>
- 2. Gemini API(Google). Get Gemini API from Google AI studio: https://aistudio.google.com/app/prompts/new_chat<br>
-3. Clone the Repo:
+ 2. Gemini API(Google). Get Gemini API from Google AI studio: https://aistudio.google.com/app/prompts/new_chat. Put the API key inside server.js in specfic bot and inside script.js in generalbot.<br>
+ 3. .env file. Inside have the API_KEY = "" with your API credentials. 
+ 4. Clone the Repo:
    
 ```sh
   git clone https://github.com/irisvlack/heritage.git 
