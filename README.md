@@ -1,4 +1,4 @@
-![Heritage Logo](/banner.png)
+![Heritage Logo](/images/banner.png)
 
 # Heritage
 
@@ -17,8 +17,9 @@ through the use of AI.
 Heritage requires:
 
  1. [Node.js](https://nodejs.org/) v18+ to run.<br>
- 2. Gemini API(Google). Get Gemini API from Google AI studio: https://aistudio.google.com/app/prompts/new_chat<br>
-3. Clone the Repo:
+ 2. Gemini API(Google). Get Gemini API from Google AI studio: https://aistudio.google.com/app/prompts/new_chat. Put the API key inside server.js in specfic bot and inside script.js in generalbot.<br>
+ 3. .env file. Inside have the API_KEY = "" with your API credentials. 
+ 4. Clone the Repo:
    
 ```sh
   git clone https://github.com/irisvlack/heritage.git 
@@ -44,7 +45,7 @@ Also, in kalenjin.html, kikuyu.html, somali.html and luo.html: change the anchor
 
 The whole code for the anchor tag is: 
 
-![Anchor tag code](/code.png)
+![Anchor tag code](/images/code.png)
 
 ## Running Heritage
 
@@ -52,4 +53,4 @@ The whole code for the anchor tag is:
 cd heritage
 start index.html
 ```
-![Heritage Logo](/heritage.png)
+![Heritage Logo](/images/heritage.png)
